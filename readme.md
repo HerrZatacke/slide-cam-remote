@@ -8,6 +8,7 @@ Automatically trigger a slide projector and a DSLR to mass-capture analog slides
 * Tamron 90mm F/2.8 1:1 macro lens
 * Kodak Carousel S Slide Projector
 * Arduino Pro Mini
+My camera produces the sharpest images when using *F/9.1*
 
 ## Arduino Code
 The code allows confiruration via serial port via
@@ -16,11 +17,8 @@ The code allows confiruration via serial port via
 * shutter `c`ount 
 * `r`epeat sequence (default 80 for Carousel Projector)
 
-## Camera / Lens
-My camera produces the sharpest images when using *F/9.1*
-
 ## Shutter Cable
-https://www.amazon.de/gp/product/B01CQN21L4/
+https://www.amazon.de/gp/product/B0079WLI3A/
 * weiss = Focus
 * gelb = gnd
 * red = shutter
@@ -45,6 +43,7 @@ https://www.vintage-radio.net/forum/showpost.php?p=1180549&postcount=4
  \___________/
 ```
 ## Cable Pinout
+https://www.amazon.de/gp/product/B01CQN21L4/
 * 1: Red
 * 2: Pink (fwd - connect to + for action)
 * 3: White (+)

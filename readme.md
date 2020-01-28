@@ -1,5 +1,5 @@
 # Slide Cam Remote
-Automatically trigger a slide projector and a DSLR with a macro lens to mass-capture analog slides.
+Automatically trigger a slide projector and a DSLR to mass-capture analog slides.
 
 ## Equipment
 * Canon 50D

@@ -51,3 +51,8 @@ https://www.vintage-radio.net/forum/showpost.php?p=1180549&postcount=4
 * 6: Blue (-)
 
 ![Cable pionout](doc_images/pinout.jpg)
+
+## Schematic
+![Rough schematic 1](doc_images/IMG_5354.JPG)
+![Rough schematic 2](doc_images/IMG_5355.JPG)
+![Rough schematic 3](doc_images/IMG_5356.JPG)

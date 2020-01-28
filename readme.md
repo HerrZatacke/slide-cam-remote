@@ -1,6 +1,8 @@
 # Slide Cam Remote
 Automatically trigger a slide projector and a DSLR to mass-capture analog slides.
 
+![Overview](doc_images/overview.jpg)
+
 ## Equipment
 * Canon 50D
 * Tamron 90mm F/2.8 1:1 macro lens
@@ -56,3 +58,4 @@ https://www.vintage-radio.net/forum/showpost.php?p=1180549&postcount=4
 ![Rough schematic 1](doc_images/IMG_5354.JPG)
 ![Rough schematic 2](doc_images/IMG_5355.JPG)
 ![Rough schematic 3](doc_images/IMG_5356.JPG)
+![Case](doc_images/printed_case.jpg)

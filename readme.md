@@ -8,6 +8,7 @@ Automatically trigger a slide projector and a DSLR to mass-capture analog slides
 * Tamron 90mm F/2.8 1:1 macro lens
 * Kodak Carousel S Slide Projector
 * Arduino Pro Mini
+
 My camera produces the sharpest images when using *F/9.1*
 
 ## Arduino Code

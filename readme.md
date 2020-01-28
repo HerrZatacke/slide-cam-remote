@@ -10,7 +10,7 @@ My camera produces the sharpest images when using *F/9.1*
 * Kodak Carousel S Slide Projector
 * Arduino Pro Mini
 
-## Arduino Code
+## [Arduino Code](slide-cam-remote/slide-cam-remote.ino)
 The code allows confiruration via serial port via
 * `p`rojector delay (min 500ms)
 * `s`hutter delay (min 50ms)

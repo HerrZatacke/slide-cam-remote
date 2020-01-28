@@ -53,7 +53,7 @@ https://www.amazon.de/gp/product/B01CQN21L4/
 
 ![Cable pionout](doc_images/pinout.jpg)
 
-## Schematic
+## "Schematic"
 ![Rough schematic 1](doc_images/IMG_5354.JPG)
 ![Rough schematic 2](doc_images/IMG_5355.JPG)
 ![Rough schematic 3](doc_images/IMG_5356.JPG)

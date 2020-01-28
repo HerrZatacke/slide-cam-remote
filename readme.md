@@ -19,8 +19,8 @@ The code allows confiruration via serial port via
 
 ## Shutter Cable
 https://www.amazon.de/gp/product/B0079WLI3A/
-* weiss = Focus
-* gelb = gnd
+* white = focus
+* yellow = gnd
 * red = shutter
 
 ## Projector Pinout
